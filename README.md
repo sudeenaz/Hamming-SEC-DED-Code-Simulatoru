@@ -18,7 +18,7 @@ Bu proje, Hamming SEC-DED (Single Error Correction, Double Error Detection) kodl
 ## 🚀 Kurulum
 
 1. Projeyi klonlayın:
-git clone https://github.com/kullaniciadi/hamming-code-simulator.git
+git clone https://github.com/sudeenaz/Hamming-SEC-DED-Code-Simulatoru?tab=readme-ov-file
 cd hamming-code-simulator
 
 2. Gerekli bağımlılıkları yükleyin:
